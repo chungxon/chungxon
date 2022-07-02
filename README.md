@@ -5,9 +5,12 @@
 
 📢 I'm currently learning Flutter to become a professional mobile developer.
 
-###   Coding stats
-![Le Trung Son's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesonlhld&show_icons=true&count_private=true&theme=buefy&include_all_commits=true)
+<!---https://github.com/vn7n24fzkq/github-profile-summary-cards--->
 
-![Le Trung Son's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lesonlhld&layout=compact&theme=buefy)
+![Le Trung Son's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lesonlhld&)
+
+![Le Trung Son's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesonlhld&show_icons=true&count_private=true&theme=buefy)
+
+![Le Trung Son's Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@lesonlhld&layout=compact&theme=buefy)
 
 ![Le Trung Son Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesonlhld&layout=compact&langs_count=10&theme=buefy)
