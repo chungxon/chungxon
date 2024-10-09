@@ -16,3 +16,7 @@
 <!-- <a href="https://www.buymeacoffee.com/leson"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a> -->
 
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S614DZRY) -->
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
