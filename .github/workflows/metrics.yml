@@ -26,8 +26,9 @@ jobs:
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_limit: 100
+          plugin_activity_limit: 48
           plugin_activity_load: 300
+          plugin_activity_timestamps: yes
           plugin_activity_visibility: all
           plugin_followup: yes
           plugin_followup_archived: yes
@@ -36,7 +37,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
-          plugin_habits_days: 14
+          plugin_habits_days: 100
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
@@ -47,8 +48,6 @@ jobs:
           plugin_lines_sections: base
           plugin_notable: yes
           plugin_notable_from: all
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
           plugin_notable_self: yes
           plugin_notable_types: commit
           plugin_reactions: yes
@@ -57,6 +56,7 @@ jobs:
           plugin_reactions_limit_discussions: 100
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
+          plugin_support: yes
           plugin_traffic: yes
           plugin_wakatime: yes
           plugin_wakatime_days: 7
@@ -65,4 +65,3 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: chung_xon
-          repositories_forks: yes
