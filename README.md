@@ -17,6 +17,6 @@
 
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S614DZRY) -->
 
-<picture>
+<a href="https://metrics.lecoq.io/insights/chungxon" target="_blank">
   <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+</a>
