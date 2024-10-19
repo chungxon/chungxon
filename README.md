@@ -1,10 +1,10 @@
-# Hi 👋, I'm Chung Xon 😉 
+# Hi 👋 
 
 <!---### I have a dream to have a lot of money 💸--->
 <!---https://github.com/antonkomarev/github-profile-views-counter--->
 ![Github](https://img.shields.io/github/last-commit/lesonlhld/lesonlhld) ![](https://komarev.com/ghpvc/?username=lesonlhld&style=flat&color=brightgreen) [![wakatime](https://wakatime.com/badge/user/492233ad-0ac5-4796-881e-7090c06327d8.svg)](https://wakatime.com/@492233ad-0ac5-4796-881e-7090c06327d8)
 
-### 🧑‍💻 I'm dev
+### Chung Xon 🫳 Lowkeyer
 <!---https://github.com/vn7n24fzkq/github-profile-summary-cards--->
 
 <!---![Le Trung Son's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lesonlhld&)--->
