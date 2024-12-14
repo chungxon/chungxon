@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2620" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2254" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,19 +19,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4759 Commits
+                            4763 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            405 Pull requests reviewed
+                            406 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            799 Pull requests opened
+                            801 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -121,7 +121,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    365 MB used
+                                    366 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -159,7 +159,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    94 views in last two weeks
+                                    93 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -498,13 +498,13 @@
                             07
                         </div>
                         <div class="entry">
-                            <span class="value">5</span>
-                            <div class="bar" style="height: 19.230769230769234px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">6</span>
+                            <div class="bar" style="height: 23.076923076923077px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             08
                         </div>
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">6</span>
+                            <div class="bar" style="height: 23.076923076923077px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             09
                         </div>
                         <div class="entry">
@@ -518,23 +518,23 @@
                             11
                         </div>
                         <div class="entry">
-                            <span class="value">5</span>
-                            <div class="bar" style="height: 19.230769230769234px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">6</span>
+                            <div class="bar" style="height: 23.076923076923077px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             12
                         </div>
                         <div class="entry">
-                            <span class="value">6</span>
-                            <div class="bar" style="height: 23.076923076923077px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 19.230769230769234px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             13
                         </div>
                         <div class="entry">
-                            <span class="value">6</span>
-                            <div class="bar" style="height: 23.076923076923077px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 15.384615384615385px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             14
                         </div>
                         <div class="entry">
-                            <span class="value">12</span>
-                            <div class="bar" style="height: 46.15384615384615px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">10</span>
+                            <div class="bar" style="height: 38.46153846153847px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             15
                         </div>
                         <div class="entry">
@@ -594,8 +594,8 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">18</span>
-                                <div class="bar" style="height: 47.368421052631575px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">12</span>
+                                <div class="bar" style="height: 31.57894736842105px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -609,8 +609,8 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">13</span>
-                                <div class="bar" style="height: 34.21052631578947px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">19</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -643,7 +643,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 4 days
+                            Current streak 5 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1638,6 +1638,11 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.4 0,3.4000000000000004 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.4000000000000004 1.7,4.4 z"/>
                             </g>
+                            <g transform="translate(-8.5, 9.95)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.05 0,2.05 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.05 1.7,3.05 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1651,6 +1656,103 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#56 chore: remove verify purchase code complete</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">inspireui/mstore-api</span></div>
+                                    <div>3 files changed <span class="code">++8 --8</span></div>
+                                </div>
+                                <div class="timestamp">13 Dec 2024, 09:51:54</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">fix/purchase-code</span>
+                                        in
+                                        <span class="repo">inspireui/mstore-api</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">13 Dec 2024, 09:28:55</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">inspireui/mstore-api</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f6a481f</div>
+                                        <div class="message">Revert "chore: hide deactivate button to avoid confusing users"
+
+This reverts commit 17714f73b0e7ef6bb3b21c924a4df9b5457fa973.</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">13 Dec 2024, 09:23:18</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">inspireui/mstore-api</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/performance-issue</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c619546</div>
+                                        <div class="message">feat(Attribute): reduce sub-attribute calls by returning when getting attribute</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">13 Dec 2024, 09:21:14</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#55 feat(Attribute): reduce sub-attribute calls by returning it when getting attribute</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">inspireui/mstore-api</span></div>
+                                    <div>0 files changed <span class="code">++0 --0</span></div>
+                                </div>
+                                <div class="timestamp">13 Dec 2024, 09:20:18</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1747,1807 +1849,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">10 Dec 2024, 21:46:14</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 92 commits in
-                                        <span class="repo">Quick-Fork/samples</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2bb837e</div>
-                                        <div class="message">Update VeggieSeasons Settings screen to use CupertinoList (#2426)
-
-## Pre-launch Checklist
-
-- [x] I read the [Flutter Style Guide] _recently_, and have followed its
-advice.
-- [x] I signed the [CLA].
-- [x] I read the [Contributors Guide].
-- [x] I updated/added relevant documentation (doc comments with `///`).
-- [x] All existing and new tests are passing.
-
-If you need help, consider asking for advice on the #hackers-devrel
-channel on [Discord].
-
-&lt;!-- Links --&gt;
-[Flutter Style Guide]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Style-guide-for-Flutter-repo.md
-[CLA]: https://cla.developers.google.com/
-[Discord]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Chat.md
-[Contributors Guide]:
-https://github.com/flutter/samples/blob/main/CONTRIBUTING.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d208d7</div>
-                                        <div class="message">CI Fix, part #2 (#2423)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82a8a84</div>
-                                        <div class="message">Fix Veggie Seasons CI (#2422)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bee21b5</div>
-                                        <div class="message">Cleaning up Veggie Seasons (#2416)
-
-## Pre-launch Checklist
-
-- [x] I read the [Flutter Style Guide] _recently_, and have followed its
-advice.
-- [x] I signed the [CLA].
-- [x] I read the [Contributors Guide].
-- [x] I updated/added relevant documentation (doc comments with `///`).
-- [x] All existing and new tests are passing.
-
-If you need help, consider asking for advice on the #hackers-devrel
-channel on [Discord].
-
-&lt;!-- Links --&gt;
-[Flutter Style Guide]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Style-guide-for-Flutter-repo.md
-[CLA]: https://cla.developers.google.com/
-[Discord]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Chat.md
-[Contributors Guide]:
-https://github.com/flutter/samples/blob/main/CONTRIBUTING.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61fed76</div>
-                                        <div class="message">Bump github/codeql-action from 3.26.5 to 3.26.6 (#2417)
-
-Bumps [github/codeql-action](https://github.com/github/codeql-action)
-from 3.26.5 to 3.26.6.
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/github/codeql-action/blob/main/CHANGELOG.md"&gt;github/codeql-action's
-changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h1&gt;CodeQL Action Changelog&lt;/h1&gt;
-&lt;p&gt;See the &lt;a
-href="https://github.com/github/codeql-action/releases"&gt;releases
-page&lt;/a&gt; for the relevant changes to the CodeQL CLI and language
-packs.&lt;/p&gt;
-&lt;p&gt;Note that the only difference between &lt;code&gt;v2&lt;/code&gt; and
-&lt;code&gt;v3&lt;/code&gt; of the CodeQL Action is the node version they support,
-with &lt;code&gt;v3&lt;/code&gt; running on node 20 while we continue to release
-&lt;code&gt;v2&lt;/code&gt; to support running on node 16. For example
-&lt;code&gt;3.22.11&lt;/code&gt; was the first &lt;code&gt;v3&lt;/code&gt; release and is
-functionally identical to &lt;code&gt;2.22.11&lt;/code&gt;. This approach ensures an
-easy way to track exactly which features are included in different
-versions, indicated by the minor and patch version numbers.&lt;/p&gt;
-&lt;h2&gt;[UNRELEASED]&lt;/h2&gt;
-&lt;p&gt;No user facing changes.&lt;/p&gt;
-&lt;h2&gt;3.26.6 - 29 Aug 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Update default CodeQL bundle version to 2.18.3. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2449"&gt;#2449&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.26.5 - 23 Aug 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix an issue where the &lt;code&gt;csrutil&lt;/code&gt; system call used for
-telemetry would fail on MacOS ARM machines with System Integrity
-Protection disabled. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2441"&gt;#2441&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.26.4 - 21 Aug 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Deprecation:&lt;/em&gt; The &lt;code&gt;add-snippets&lt;/code&gt; input on the
-&lt;code&gt;analyze&lt;/code&gt; Action is deprecated and will be removed in the
-first release in August 2025. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2436"&gt;#2436&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix an issue where the disk usage system call used for telemetry
-would fail on MacOS ARM machines with System Integrity Protection
-disabled, and then surface a warning. The system call is now disabled
-for these machines. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2434"&gt;#2434&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.26.3 - 19 Aug 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix an issue where the CodeQL Action could not write diagnostic
-messages on Windows. This issue did not impact analysis quality. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2430"&gt;#2430&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.26.2 - 14 Aug 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Update default CodeQL bundle version to 2.18.2. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2417"&gt;#2417&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.26.1 - 13 Aug 2024&lt;/h2&gt;
-&lt;p&gt;No user facing changes.&lt;/p&gt;
-&lt;h2&gt;3.26.0 - 06 Aug 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Deprecation:&lt;/em&gt; Swift analysis on Ubuntu runner images is no
-longer supported. Please migrate to a macOS runner if this affects you.
-&lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2403"&gt;#2403&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bump the minimum CodeQL bundle version to 2.13.5. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2408"&gt;#2408&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.25.15 - 26 Jul 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Update default CodeQL bundle version to 2.18.1. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2385"&gt;#2385&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.25.14 - 25 Jul 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Experimental: add a new &lt;code&gt;start-proxy&lt;/code&gt; action which starts
-the same HTTP proxy as used by &lt;a
-href="https://github.com/github/dependabot-action"&gt;&lt;code&gt;github/dependabot-action&lt;/code&gt;&lt;/a&gt;.
-Do not use this in production as it is part of an internal experiment
-and subject to change at any time. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2376"&gt;#2376&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.25.13 - 19 Jul 2024&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/4dd16135b69a43b6c8efb853346f8437d92d3c93"&gt;&lt;code&gt;4dd1613&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/github/codeql-action/issues/2452"&gt;#2452&lt;/a&gt;
-from github/update-v3.26.6-7233ec5e6&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/dd9dd2d5389e8ca48a8201513c3fd18d7fda567d"&gt;&lt;code&gt;dd9dd2d&lt;/code&gt;&lt;/a&gt;
-Update changelog for v3.26.6&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/7233ec5e6b313c47141f047dd5be5f957560dd27"&gt;&lt;code&gt;7233ec5&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/github/codeql-action/issues/2449"&gt;#2449&lt;/a&gt;
-from github/update-bundle/codeql-bundle-v2.18.3&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/a32c44dba17a9c6628320a29508e84e052128a3a"&gt;&lt;code&gt;a32c44d&lt;/code&gt;&lt;/a&gt;
-Add changelog note&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/2966897c6759237a41ccd8fd392565a4e86a5121"&gt;&lt;code&gt;2966897&lt;/code&gt;&lt;/a&gt;
-Update default bundle to codeql-bundle-v2.18.3&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/b8efe4dc6ab6d31abe3ec159420d2a4916880800"&gt;&lt;code&gt;b8efe4d&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/github/codeql-action/issues/2435"&gt;#2435&lt;/a&gt;
-from github/update-supported-enterprise-server-versions&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/ab408a875b0616b0e5eaa4d0d86ac836a29cfb4e"&gt;&lt;code&gt;ab408a8&lt;/code&gt;&lt;/a&gt;
-Merge branch 'main' into
-update-supported-enterprise-server-versions&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/864b979bc3eb6b10501334cb368b2b398a60ff1b"&gt;&lt;code&gt;864b979&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/github/codeql-action/issues/2443"&gt;#2443&lt;/a&gt;
-from github/dbartol/config-file-telemetry&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/d36c7aaf6a9744943ec1ee06e31a6dd1eb8e1357"&gt;&lt;code&gt;d36c7aa&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/github/codeql-action/issues/2448"&gt;#2448&lt;/a&gt;
-from github/dependabot/npm_and_yarn/npm-09b7c43f6b&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/b3bf514df4c04374e8f0db7938b20f8425387f33"&gt;&lt;code&gt;b3bf514&lt;/code&gt;&lt;/a&gt;
-Update checked-in dependencies&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/github/codeql-action/compare/2c779ab0d087cd7fe7b826087247c2c81f27bfa6...4dd16135b69a43b6c8efb853346f8437d92d3c93"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=github/codeql-action&amp;package-manager=github_actions&amp;previous-version=3.26.5&amp;new-version=3.26.6)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20c1002</div>
-                                        <div class="message">Fixup CI (#2412)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5cd55f</div>
-                                        <div class="message">Bump zone.js from 0.14.10 to 0.15.0 in /web_embedding/ng-flutter (#2397)
-
-Bumps
-[zone.js](https://github.com/angular/angular/tree/HEAD/packages/zone.js)
-from 0.14.10 to 0.15.0.
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/angular/angular/blob/main/packages/zone.js/CHANGELOG.md"&gt;zone.js's
-changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h1&gt;&lt;a
-href="https://github.com/angular/angular/compare/zone.js-0.14.10...zone.js-0.15.0"&gt;0.15.0&lt;/a&gt;
-(2024-08-15)&lt;/h1&gt;
-&lt;h3&gt;Bug Fixes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;zone.js:&lt;/strong&gt; Add support for addition jest functions.
-(&lt;a
-href="https://redirect.github.com/angular/angular/issues/57280"&gt;#57280&lt;/a&gt;)
-(&lt;a
-href="https://github.com/angular/angular/commit/e1240c6f5d9a3d68ccef7ffbf0a0646ad1164cd8"&gt;e1240c6&lt;/a&gt;),
-closes &lt;a
-href="https://redirect.github.com/angular/angular/issues/57277"&gt;#57277&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;zone.js:&lt;/strong&gt; Update the default behavior of fakeAsync
-to flush after the test (&lt;a
-href="https://redirect.github.com/angular/angular/issues/57240"&gt;#57240&lt;/a&gt;)
-(&lt;a
-href="https://github.com/angular/angular/commit/70e8b40750e894bc1439713cd508d8bd9fafb7a4"&gt;70e8b40&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;BREAKING CHANGES&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;zone.js:&lt;/strong&gt; &lt;code&gt;fakeAsync&lt;/code&gt; will now flush
-pending timers at the end of
-the given function by default. To opt-out of this, you can use
-&lt;code&gt;{flush: false}&lt;/code&gt; in options parameter of
-&lt;code&gt;fakeAsync&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/angular/angular/commit/d1d4adcba24affa30a903acedeb41d1e63776778"&gt;&lt;code&gt;d1d4adc&lt;/code&gt;&lt;/a&gt;
-release: cut the zone.js-0.15.0 release (&lt;a
-href="https://github.com/angular/angular/tree/HEAD/packages/zone.js/issues/57418"&gt;#57418&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/angular/angular/commit/24cd1c8db6be568d4988e4f0178e31b54572e948"&gt;&lt;code&gt;24cd1c8&lt;/code&gt;&lt;/a&gt;
-build: lock file maintenance (&lt;a
-href="https://github.com/angular/angular/tree/HEAD/packages/zone.js/issues/57340"&gt;#57340&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/angular/angular/commit/e1240c6f5d9a3d68ccef7ffbf0a0646ad1164cd8"&gt;&lt;code&gt;e1240c6&lt;/code&gt;&lt;/a&gt;
-fix(zone.js): Add support for addition jest functions. (&lt;a
-href="https://github.com/angular/angular/tree/HEAD/packages/zone.js/issues/57280"&gt;#57280&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/angular/angular/commit/70e8b40750e894bc1439713cd508d8bd9fafb7a4"&gt;&lt;code&gt;70e8b40&lt;/code&gt;&lt;/a&gt;
-fix(zone.js): Update the default behavior of fakeAsync to flush after
-the tes...&lt;/li&gt;
-&lt;li&gt;See full diff in &lt;a
-href="https://github.com/angular/angular/commits/zone.js-0.15.0/packages/zone.js"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=zone.js&amp;package-manager=npm_and_yarn&amp;previous-version=0.14.10&amp;new-version=0.15.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11d1e98</div>
-                                        <div class="message">Update `veggieseasons` Runners (#2411)
-
-This PR updates `veggieseasons` to use current Runners for iOS and macOS
-
-## Pre-launch Checklist
-
-- [x] I read the [Flutter Style Guide] _recently_, and have followed its
-advice.
-- [x] I signed the [CLA].
-- [x] I read the [Contributors Guide].
-- [x] I updated/added relevant documentation (doc comments with `///`).
-- [x] All existing and new tests are passing.
-
-If you need help, consider asking for advice on the #hackers-devrel
-channel on [Discord].
-
-&lt;!-- Links --&gt;
-[Flutter Style Guide]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Style-guide-for-Flutter-repo.md
-[CLA]: https://cla.developers.google.com/
-[Discord]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Chat.md
-[Contributors Guide]:
-https://github.com/flutter/samples/blob/main/CONTRIBUTING.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5fd144a</div>
-                                        <div class="message">matching issue tracker to top-level samples README (#2405)
-
-*Replace this paragraph with a description of what this PR is changing
-or adding, and why. Consider including before/after screenshots.*
-
-*List which issues are fixed by this PR. For larger changes, raising an
-issue first helps
-reduce redundant work.*
-
-## Pre-launch Checklist
-
-- [x] I read the [Flutter Style Guide] _recently_, and have followed its
-advice.
-- [x] I signed the [CLA].
-- [x] I read the [Contributors Guide].
-- [ ] I updated/added relevant documentation (doc comments with `///`).
-- [ ] All existing and new tests are passing.
-
-If you need help, consider asking for advice on the #hackers-devrel
-channel on [Discord].
-
-&lt;!-- Links --&gt;
-[Flutter Style Guide]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Style-guide-for-Flutter-repo.md
-[CLA]: https://cla.developers.google.com/
-[Discord]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Chat.md
-[Contributors Guide]:
-https://github.com/flutter/samples/blob/main/CONTRIBUTING.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c753b2</div>
-                                        <div class="message">Bump fl_chart from 0.68.0 to 0.69.0 in /experimental/pedometer/example (#2399)
-
-Bumps [fl_chart](https://github.com/imaNNeo/fl_chart) from 0.68.0 to
-0.69.0.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/imaNNeo/fl_chart/releases"&gt;fl_chart's
-releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;0.69.0&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;BUGFIX&lt;/strong&gt; (by &lt;a
-href="https://github.com/imaNNeo"&gt;&lt;code&gt;@​imaNNeo&lt;/code&gt;&lt;/a&gt;) Fix a
-memory leak issue in the axis-based charts, there was a logic to
-calculate and cache the minX, maxX, minY and maxY properties to reduce
-the computation cost. But it caused some memory issues, as we don't have
-a quick solution for this, we disabled the caching logic for now, later
-we can move the calculation logic to the render objects to keep and
-update them only when the data is changed, &lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/1106"&gt;#1106&lt;/a&gt;,
-&lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/1693"&gt;#1693&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;BUGFIX&lt;/strong&gt; (by &lt;a
-href="https://github.com/imaNNeo"&gt;&lt;code&gt;@​imaNNeo&lt;/code&gt;&lt;/a&gt;) Fix
-showing grid lines even when there is no line to show in the LineChart,
-&lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/1691"&gt;#1691&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a
-href="https://github.com/sczesla"&gt;&lt;code&gt;@​sczesla&lt;/code&gt;&lt;/a&gt;) Allow
-users to control minIncluded and maxIncluded using SideTitles, &lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/906"&gt;#906&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a
-href="https://github.com/elizabethzhenliu"&gt;&lt;code&gt;@​elizabethzhenliu&lt;/code&gt;&lt;/a&gt;)
-Reverse the touch order in ScatterChart, so now the top spots are
-touched first, &lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/1675"&gt;#1675&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a
-href="https://github.com/ksw2000"&gt;&lt;code&gt;@​ksw2000&lt;/code&gt;&lt;/a&gt;) Remove
-redundant math import, &lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/1683"&gt;#1683&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a
-href="https://github.com/Neer-Pathak"&gt;&lt;code&gt;@​Neer-Pathak&lt;/code&gt;&lt;/a&gt;)
-Fix linux example build issue, &lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/1668"&gt;#1668&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a
-href="https://github.com/TobiasRump"&gt;&lt;code&gt;@​TobiasRump&lt;/code&gt;&lt;/a&gt;)
-Update the bar chart documentation, &lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/1662"&gt;#1662&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/imaNNeo/fl_chart/blob/main/CHANGELOG.md"&gt;fl_chart's
-changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;0.69.0&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;BUGFIX&lt;/strong&gt; (by &lt;a
-href="https://github.com/imaNNeo"&gt;&lt;code&gt;@​imaNNeo&lt;/code&gt;&lt;/a&gt;) Fix a
-memory leak issue in the axis-based charts, there was a logic to
-calculate and cache the minX, maxX, minY and maxY properties to reduce
-the computation cost. But it caused some memory issues, as we don't have
-a quick solution for this, we disabled the caching logic for now, later
-we can move the calculation logic to the render objects to keep and
-update them only when the data is changed, &lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/1106"&gt;#1106&lt;/a&gt;,
-&lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/1693"&gt;#1693&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;BUGFIX&lt;/strong&gt; (by &lt;a
-href="https://github.com/imaNNeo"&gt;&lt;code&gt;@​imaNNeo&lt;/code&gt;&lt;/a&gt;) Fix
-showing grid lines even when there is no line to show in the LineChart,
-&lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/1691"&gt;#1691&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a
-href="https://github.com/sczesla"&gt;&lt;code&gt;@​sczesla&lt;/code&gt;&lt;/a&gt;) Allow
-users to control minIncluded and maxIncluded using SideTitles, &lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/906"&gt;#906&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a
-href="https://github.com/elizabethzhenliu"&gt;&lt;code&gt;@​elizabethzhenliu&lt;/code&gt;&lt;/a&gt;)
-Reverse the touch order in ScatterChart, so now the top spots are
-touched first, &lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/1675"&gt;#1675&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a
-href="https://github.com/ksw2000"&gt;&lt;code&gt;@​ksw2000&lt;/code&gt;&lt;/a&gt;) Remove
-redundant math import, &lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/1683"&gt;#1683&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a
-href="https://github.com/Neer-Pathak"&gt;&lt;code&gt;@​Neer-Pathak&lt;/code&gt;&lt;/a&gt;)
-Fix linux example build issue, &lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/1668"&gt;#1668&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a
-href="https://github.com/TobiasRump"&gt;&lt;code&gt;@​TobiasRump&lt;/code&gt;&lt;/a&gt;)
-Update the bar chart documentation, &lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/1662"&gt;#1662&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/imaNNeo/fl_chart/commit/a6c274ced070da94243fd5c2b8b41e9180e8352d"&gt;&lt;code&gt;a6c274c&lt;/code&gt;&lt;/a&gt;
-Bump version to 0.69.0&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/imaNNeo/fl_chart/commit/b0a50a4c13bdf833eac9cf6f73853e0fe4243e34"&gt;&lt;code&gt;b0a50a4&lt;/code&gt;&lt;/a&gt;
-Update CHANGELOG.md&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/imaNNeo/fl_chart/commit/f5af4e5152f46e0852f70b949a0d4609d12ede22"&gt;&lt;code&gt;f5af4e5&lt;/code&gt;&lt;/a&gt;
-Update bar_chart.md to fix &lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/1608"&gt;#1608&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/imaNNeo/fl_chart/commit/a6b2d24e607d580926863ec19511800c6d965e5c"&gt;&lt;code&gt;a6b2d24&lt;/code&gt;&lt;/a&gt;
-fix: Linux Example App Build&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/imaNNeo/fl_chart/commit/99ae675184f1ce36b871a2245155c591c046e76e"&gt;&lt;code&gt;99ae675&lt;/code&gt;&lt;/a&gt;
-Update CHANGELOG.md&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/imaNNeo/fl_chart/commit/37371d8bdcbaa8b2bf749fd1432d2fd36397e992"&gt;&lt;code&gt;37371d8&lt;/code&gt;&lt;/a&gt;
-fixed touch detection to select topmost spot. Spots are rendered in
-order so ...&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/imaNNeo/fl_chart/commit/5a9606bd6840f941d18715b7c7f385748f09e0e6"&gt;&lt;code&gt;5a9606b&lt;/code&gt;&lt;/a&gt;
-Remove redundant import of 'dart:math'&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/imaNNeo/fl_chart/commit/9fc2628e3600e585d5ed8cda469b03128ac5bbd1"&gt;&lt;code&gt;9fc2628&lt;/code&gt;&lt;/a&gt;
-Code formatting&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/imaNNeo/fl_chart/commit/39985b0f15c05ea90fa1813bbf06ff59f3556a77"&gt;&lt;code&gt;39985b0&lt;/code&gt;&lt;/a&gt;
-Adding change &lt;a
-href="https://redirect.github.com/imaNNeo/fl_chart/issues/906"&gt;#906&lt;/a&gt;
-change to CHANGELOG&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/imaNNeo/fl_chart/commit/ed1bdcb1b0a4f272994ebde2abe103359a8d527c"&gt;&lt;code&gt;ed1bdcb&lt;/code&gt;&lt;/a&gt;
-Adding unit test to check forwarding of minIncluded/maxIncluded via
-sideTitles&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/imaNNeo/fl_chart/compare/0.68.0...0.69.0"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=fl_chart&amp;package-manager=pub&amp;previous-version=0.68.0&amp;new-version=0.69.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4e92d7</div>
-                                        <div class="message">Update font to match Cupertino (#2410)
-
-updating font to more closely align with system font
-
-*List which issues are fixed by this PR. For larger changes, raising an
-issue first helps
-reduce redundant work.*
-
-## Pre-launch Checklist
-
-- [x] I read the [Flutter Style Guide] _recently_, and have followed its
-advice.
-- [x] I signed the [CLA].
-- [ ] I read the [Contributors Guide].
-- [ ] I updated/added relevant documentation (doc comments with `///`).
-- [ ] All existing and new tests are passing.
-
-If you need help, consider asking for advice on the #hackers-devrel
-channel on [Discord].
-
-&lt;!-- Links --&gt;
-[Flutter Style Guide]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Style-guide-for-Flutter-repo.md
-[CLA]: https://cla.developers.google.com/
-[Discord]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Chat.md
-[Contributors Guide]:
-https://github.com/flutter/samples/blob/main/CONTRIBUTING.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a3cc9d</div>
-                                        <div class="message">explicitly say how to launch the app for iOS (#2401)
-
-*Replace this paragraph with a description of what this PR is changing
-or adding, and why. Consider including before/after screenshots.*
-
-*List which issues are fixed by this PR. For larger changes, raising an
-issue first helps
-reduce redundant work.*
-
-## Pre-launch Checklist
-
-- [x] I read the [Flutter Style Guide] _recently_, and have followed its
-advice.
-- [x] I signed the [CLA].
-- [x] I read the [Contributors Guide].
-- [ ] I updated/added relevant documentation (doc comments with `///`).
-- [ ] All existing and new tests are passing.
-
-If you need help, consider asking for advice on the #hackers-devrel
-channel on [Discord].
-
-&lt;!-- Links --&gt;
-[Flutter Style Guide]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Style-guide-for-Flutter-repo.md
-[CLA]: https://cla.developers.google.com/
-[Discord]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Chat.md
-[Contributors Guide]:
-https://github.com/flutter/samples/blob/main/CONTRIBUTING.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b701393</div>
-                                        <div class="message">remove outdated links at bottom of README (#2400)
-
-*Replace this paragraph with a description of what this PR is changing
-or adding, and why. Consider including before/after screenshots.*
-
-*List which issues are fixed by this PR. For larger changes, raising an
-issue first helps
-reduce redundant work.*
-
-## Pre-launch Checklist
-
-- [x] I read the [Flutter Style Guide] _recently_, and have followed its
-advice.
-- [x] I signed the [CLA].
-- [x] I read the [Contributors Guide].
-- [ ] I updated/added relevant documentation (doc comments with `///`).
-- [ ] All existing and new tests are passing.
-
-If you need help, consider asking for advice on the #hackers-devrel
-channel on [Discord].
-
-&lt;!-- Links --&gt;
-[Flutter Style Guide]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Style-guide-for-Flutter-repo.md
-[CLA]: https://cla.developers.google.com/
-[Discord]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Chat.md
-[Contributors Guide]:
-https://github.com/flutter/samples/blob/main/CONTRIBUTING.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd5956d</div>
-                                        <div class="message">Bump github/codeql-action from 3.26.4 to 3.26.5 (#2395)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63a7166</div>
-                                        <div class="message">Bump pigeon from 21.2.0 to 22.0.0 in /add_to_app/books/flutter_module_books (#2392)
-
-Bumps [pigeon](https://github.com/flutter/packages/tree/main/packages)
-from 21.2.0 to 22.0.0.
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/flutter/packages/commit/6dd3e4e442a9e897a206bdbed31271c0452ddb67"&gt;&lt;code&gt;6dd3e4e&lt;/code&gt;&lt;/a&gt;
-[pigeon] simplifies int handling across the codec, verifies ints in
-collectio...&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/flutter/packages/commit/f63faf3c389bcf1d5c851977af405569cd7c4140"&gt;&lt;code&gt;f63faf3&lt;/code&gt;&lt;/a&gt;
-[interactive_media_ads]: Bump androidx.annotation:annotation from 1.8.1
-to 1....&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/flutter/packages/commit/7c95aa6a3e4d0c63ac040623571f2ec806005a8f"&gt;&lt;code&gt;7c95aa6&lt;/code&gt;&lt;/a&gt;
-[interactive_media_ads] Adds a contribution doc (&lt;a
-href="https://github.com/flutter/packages/tree/main/packages/issues/7460"&gt;#7460&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/flutter/packages/commit/ee0ad75fa2ed79f4677cb6f3b5dc7467a9af7203"&gt;&lt;code&gt;ee0ad75&lt;/code&gt;&lt;/a&gt;
-[webview]: Bump androidx.annotation:annotation from 1.8.1 to 1.8.2 in
-/packag...&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/flutter/packages/commit/c5d03ee2f2db63a42c0e3b0450b858783a9d6c64"&gt;&lt;code&gt;c5d03ee&lt;/code&gt;&lt;/a&gt;
-[many] Remove dependency on &lt;code&gt;kotlin-bom&lt;/code&gt; (&lt;a
-href="https://github.com/flutter/packages/tree/main/packages/issues/7088"&gt;#7088&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/flutter/packages/commit/2703d10608d4928a1477f9ba75c98aaa68904f66"&gt;&lt;code&gt;2703d10&lt;/code&gt;&lt;/a&gt;
-Remove unnecessary breaks in default clauses of switch statements (&lt;a
-href="https://github.com/flutter/packages/tree/main/packages/issues/7462"&gt;#7462&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/flutter/packages/commit/4e5d47e8f0aeefc8057b37b10f8f6b2a4a3fc1f7"&gt;&lt;code&gt;4e5d47e&lt;/code&gt;&lt;/a&gt;
-[webview_flutter] Endorse macOS (&lt;a
-href="https://github.com/flutter/packages/tree/main/packages/issues/7457"&gt;#7457&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/flutter/packages/commit/89154b32c05886a6dc36244a303839959b0b4067"&gt;&lt;code&gt;89154b3&lt;/code&gt;&lt;/a&gt;
-[flutter_adaptive_scaffold] Fix landscape not showing in andUp (&lt;a
-href="https://github.com/flutter/packages/tree/main/packages/issues/7425"&gt;#7425&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/flutter/packages/commit/1ab1a712e5df333026c9103fffa82f014e731d9b"&gt;&lt;code&gt;1ab1a71&lt;/code&gt;&lt;/a&gt;
-[go_router] Fixes replace and pushReplacement uri when only one route…
-(&lt;a
-href="https://github.com/flutter/packages/tree/main/packages/issues/7433"&gt;#7433&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/flutter/packages/commit/871cd471ba8ebb1208c2b30402ef1470f277cfe9"&gt;&lt;code&gt;871cd47&lt;/code&gt;&lt;/a&gt;
-[go_router] Fixes an issue where android back button pops wrong page.
-(&lt;a
-href="https://github.com/flutter/packages/tree/main/packages/issues/7348"&gt;#7348&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/flutter/packages/commits/pigeon-v22.0.0/packages"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=pigeon&amp;package-manager=pub&amp;previous-version=21.2.0&amp;new-version=22.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31d3120</div>
-                                        <div class="message">Bump actions/setup-java from 4.2.1 to 4.2.2 (#2378)
-
-Bumps [actions/setup-java](https://github.com/actions/setup-java) from
-4.2.1 to 4.2.2.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/actions/setup-java/releases"&gt;actions/setup-java's
-releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;v4.2.2&lt;/h2&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;h3&gt;  Bug fixes:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix macos latest check failures by &lt;a
-href="https://github.com/HarithaVattikuti"&gt;&lt;code&gt;@​HarithaVattikuti&lt;/code&gt;&lt;/a&gt;
-in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/634"&gt;actions/setup-java#634&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix dragonwell distribution parsing issues by &lt;a
-href="https://github.com/Accelerator1996"&gt;&lt;code&gt;@​Accelerator1996&lt;/code&gt;&lt;/a&gt;
-in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/643"&gt;actions/setup-java#643&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Documentation changes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Update advanced documentation for java-version-file by &lt;a
-href="https://github.com/mahabaleshwars"&gt;&lt;code&gt;@​mahabaleshwars&lt;/code&gt;&lt;/a&gt;
-in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/622"&gt;actions/setup-java#622&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Dependency updates:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Bump undici from 5.28.3 to 5.28.4 and other dependency updates by &lt;a
-href="https://github.com/dependabot"&gt;&lt;code&gt;@​dependabot&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/actions/setup-java/pull/616"&gt;actions/setup-java#616&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
-href="https://github.com/actions/setup-java/compare/v4...v4.2.2"&gt;https://github.com/actions/setup-java/compare/v4...v4.2.2&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/actions/setup-java/commit/6a0805fcefea3d4657a47ac4c165951e33482018"&gt;&lt;code&gt;6a0805f&lt;/code&gt;&lt;/a&gt;
-Fix the bug about parsing dragonwell version (&lt;a
-href="https://redirect.github.com/actions/setup-java/issues/642"&gt;#642&lt;/a&gt;)
-(&lt;a
-href="https://redirect.github.com/actions/setup-java/issues/643"&gt;#643&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/actions/setup-java/commit/fd08b9c8dc6f530393a204a04e1f05101a5d00fd"&gt;&lt;code&gt;fd08b9c&lt;/code&gt;&lt;/a&gt;
-Bump undici from 5.28.3 to 5.28.4 (&lt;a
-href="https://redirect.github.com/actions/setup-java/issues/616"&gt;#616&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/actions/setup-java/commit/2e74cbce18569d23ca8b812590dbb83f13ac7c5a"&gt;&lt;code&gt;2e74cbc&lt;/code&gt;&lt;/a&gt;
-Fix versions check failures (&lt;a
-href="https://redirect.github.com/actions/setup-java/issues/634"&gt;#634&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/actions/setup-java/commit/a1c6c9c8677803c9f4bd31e0f15ac0844258f955"&gt;&lt;code&gt;a1c6c9c&lt;/code&gt;&lt;/a&gt;
-Updated advanced-usage.md (&lt;a
-href="https://redirect.github.com/actions/setup-java/issues/622"&gt;#622&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;See full diff in &lt;a
-href="https://github.com/actions/setup-java/compare/99b8673ff64fbf99d8d325f52d9a5bdedb8483e9...6a0805fcefea3d4657a47ac4c165951e33482018"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/setup-java&amp;package-manager=github_actions&amp;previous-version=4.2.1&amp;new-version=4.2.2)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27fe553</div>
-                                        <div class="message">Bump github/codeql-action from 3.26.3 to 3.26.4 (#2393)
-
-Bumps [github/codeql-action](https://github.com/github/codeql-action)
-from 3.26.3 to 3.26.4.
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/github/codeql-action/blob/main/CHANGELOG.md"&gt;github/codeql-action's
-changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h1&gt;CodeQL Action Changelog&lt;/h1&gt;
-&lt;p&gt;See the &lt;a
-href="https://github.com/github/codeql-action/releases"&gt;releases
-page&lt;/a&gt; for the relevant changes to the CodeQL CLI and language
-packs.&lt;/p&gt;
-&lt;p&gt;Note that the only difference between &lt;code&gt;v2&lt;/code&gt; and
-&lt;code&gt;v3&lt;/code&gt; of the CodeQL Action is the node version they support,
-with &lt;code&gt;v3&lt;/code&gt; running on node 20 while we continue to release
-&lt;code&gt;v2&lt;/code&gt; to support running on node 16. For example
-&lt;code&gt;3.22.11&lt;/code&gt; was the first &lt;code&gt;v3&lt;/code&gt; release and is
-functionally identical to &lt;code&gt;2.22.11&lt;/code&gt;. This approach ensures an
-easy way to track exactly which features are included in different
-versions, indicated by the minor and patch version numbers.&lt;/p&gt;
-&lt;h2&gt;[UNRELEASED]&lt;/h2&gt;
-&lt;p&gt;No user facing changes.&lt;/p&gt;
-&lt;h2&gt;3.26.4 - 21 Aug 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Deprecation:&lt;/em&gt; The &lt;code&gt;add-snippets&lt;/code&gt; input on the
-&lt;code&gt;analyze&lt;/code&gt; Action is deprecated and will be removed in the
-first release in August 2025. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2436"&gt;#2436&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix an issue where the disk usage system call used for telemetry
-would fail on MacOS ARM machines with System Integrity Protection
-disabled, and then surface a warning. The system call is now disabled
-for these machines. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2434"&gt;#2434&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.26.3 - 19 Aug 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix an issue where the CodeQL Action could not write diagnostic
-messages on Windows. This issue did not impact analysis quality. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2430"&gt;#2430&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.26.2 - 14 Aug 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Update default CodeQL bundle version to 2.18.2. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2417"&gt;#2417&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.26.1 - 13 Aug 2024&lt;/h2&gt;
-&lt;p&gt;No user facing changes.&lt;/p&gt;
-&lt;h2&gt;3.26.0 - 06 Aug 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Deprecation:&lt;/em&gt; Swift analysis on Ubuntu runner images is no
-longer supported. Please migrate to a macOS runner if this affects you.
-&lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2403"&gt;#2403&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bump the minimum CodeQL bundle version to 2.13.5. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2408"&gt;#2408&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.25.15 - 26 Jul 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Update default CodeQL bundle version to 2.18.1. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2385"&gt;#2385&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.25.14 - 25 Jul 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Experimental: add a new &lt;code&gt;start-proxy&lt;/code&gt; action which starts
-the same HTTP proxy as used by &lt;a
-href="https://github.com/github/dependabot-action"&gt;&lt;code&gt;github/dependabot-action&lt;/code&gt;&lt;/a&gt;.
-Do not use this in production as it is part of an internal experiment
-and subject to change at any time. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2376"&gt;#2376&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.25.13 - 19 Jul 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Add &lt;code&gt;codeql-version&lt;/code&gt; to outputs. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2368"&gt;#2368&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add a deprecation warning for customers using CodeQL version 2.13.4
-and earlier. These versions of CodeQL were discontinued on 9 July 2024
-alongside GitHub Enterprise Server 3.9, and will be unsupported by
-CodeQL Action versions 3.26.0 and later and versions 2.26.0 and later.
-&lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2375"&gt;#2375&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;If you are using one of these versions, please update to CodeQL CLI
-version 2.13.5 or later. For instance, if you have specified a custom
-version of the CLI using the 'tools' input to the 'init' Action, you can
-remove this input to use the default version.&lt;/li&gt;
-&lt;li&gt;Alternatively, if you want to continue using a version of the CodeQL
-CLI between 2.12.6 and 2.13.4, you can replace
-&lt;code&gt;github/codeql-action/*@v3&lt;/code&gt; by
-&lt;code&gt;github/codeql-action/*@v3.25.13&lt;/code&gt; and
-&lt;code&gt;github/codeql-action/*@v2&lt;/code&gt; by
-&lt;code&gt;github/codeql-action/*@v2.25.13&lt;/code&gt; in your code scanning
-workflow to ensure you continue using this version of the CodeQL
-Action.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.25.12 - 12 Jul 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Improve the reliability and performance of analyzing code when
-analyzing a compiled language with the &lt;code&gt;autobuild&lt;/code&gt; &lt;a
-href="https://docs.github.com/en/code-security/code-scanning/creating-an-advanced-setup-for-code-scanning/codeql-code-scanning-for-compiled-languages#codeql-build-modes"&gt;build
-mode&lt;/a&gt; on GitHub Enterprise Server. This feature is already available
-to GitHub.com users. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2353"&gt;#2353&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/f0f3afee809481da311ca3a6ff1ff51d81dbeb24"&gt;&lt;code&gt;f0f3afe&lt;/code&gt;&lt;/a&gt;
-Merge main into releases/v3 (&lt;a
-href="https://redirect.github.com/github/codeql-action/issues/2437"&gt;#2437&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/e3543591a523b40efe5604333b75986a211c9d50"&gt;&lt;code&gt;e354359&lt;/code&gt;&lt;/a&gt;
-Update changelog for v3.26.4&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/ae01f807ca7dae87a61d9c5e36c06676ade69b1b"&gt;&lt;code&gt;ae01f80&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/github/codeql-action/issues/2436"&gt;#2436&lt;/a&gt;
-from rvermeulen/rvermeulen/deprecate-add-snippets&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/72bc3f7f619fdbada5d8d589b47c52c32f9ad097"&gt;&lt;code&gt;72bc3f7&lt;/code&gt;&lt;/a&gt;
-Address incorrect changelog location&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/7388c476ae17d48d06bd893197f2865e72233827"&gt;&lt;code&gt;7388c47&lt;/code&gt;&lt;/a&gt;
-Merge branch 'main' into rvermeulen/deprecate-add-snippets&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/d7c48ef5a8182e33f305da9abd0f642eb687244d"&gt;&lt;code&gt;d7c48ef&lt;/code&gt;&lt;/a&gt;
-Add link to PR deprecating &lt;code&gt;add-snippets&lt;/code&gt; to
-CHANGELOG.md&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/ec21b8f8a46388ea7527dbba9f40d839d52aabaf"&gt;&lt;code&gt;ec21b8f&lt;/code&gt;&lt;/a&gt;
-Update changelog with deprecation.&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/4067cdab784c667cf1b7fa95169f3a0e0a381d63"&gt;&lt;code&gt;4067cda&lt;/code&gt;&lt;/a&gt;
-Add deprecation message to &lt;code&gt;add-snippets&lt;/code&gt; input.&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/202b3b97bf2ab4efa04bf0fde6e14313688b956b"&gt;&lt;code&gt;202b3b9&lt;/code&gt;&lt;/a&gt;
-Stop checking disk usage for MacOS ARM with SIP disabled (&lt;a
-href="https://redirect.github.com/github/codeql-action/issues/2434"&gt;#2434&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/512e3066dd919110d2039970efdc5443f96d2eb5"&gt;&lt;code&gt;512e306&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/github/codeql-action/issues/2404"&gt;#2404&lt;/a&gt;
-from github/marcogario/proxy_64&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/github/codeql-action/compare/883d8588e56d1753a8a58c1c86e88976f0c23449...f0f3afee809481da311ca3a6ff1ff51d81dbeb24"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=github/codeql-action&amp;package-manager=github_actions&amp;previous-version=3.26.3&amp;new-version=3.26.4)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b5a101</div>
-                                        <div class="message">Initial date planner app (#2390)
-
-Initial **experimental** date planner iOS sample.
-
-## Pre-launch Checklist
-
-- [x] I read the [Flutter Style Guide] _recently_, and have followed its
-advice.
-- [x] I signed the [CLA].
-- [x] I read the [Contributors Guide].
-- [x] I updated/added relevant documentation (doc comments with `///`).
-- [x] All existing and new tests are passing.
-
-If you need help, consider asking for advice on the #hackers-devrel
-channel on [Discord].
-
-&lt;!-- Links --&gt;
-[Flutter Style Guide]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Style-guide-for-Flutter-repo.md
-[CLA]: https://cla.developers.google.com/
-[Discord]:
-https://github.com/flutter/flutter/blob/master/docs/contributing/Chat.md
-[Contributors Guide]:
-https://github.com/flutter/samples/blob/main/CONTRIBUTING.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#020ba09</div>
-                                        <div class="message">Bump github/codeql-action from 3.26.2 to 3.26.3 (#2391)
-
-Bumps [github/codeql-action](https://github.com/github/codeql-action)
-from 3.26.2 to 3.26.3.
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/github/codeql-action/blob/main/CHANGELOG.md"&gt;github/codeql-action's
-changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h1&gt;CodeQL Action Changelog&lt;/h1&gt;
-&lt;p&gt;See the &lt;a
-href="https://github.com/github/codeql-action/releases"&gt;releases
-page&lt;/a&gt; for the relevant changes to the CodeQL CLI and language
-packs.&lt;/p&gt;
-&lt;p&gt;Note that the only difference between &lt;code&gt;v2&lt;/code&gt; and
-&lt;code&gt;v3&lt;/code&gt; of the CodeQL Action is the node version they support,
-with &lt;code&gt;v3&lt;/code&gt; running on node 20 while we continue to release
-&lt;code&gt;v2&lt;/code&gt; to support running on node 16. For example
-&lt;code&gt;3.22.11&lt;/code&gt; was the first &lt;code&gt;v3&lt;/code&gt; release and is
-functionally identical to &lt;code&gt;2.22.11&lt;/code&gt;. This approach ensures an
-easy way to track exactly which features are included in different
-versions, indicated by the minor and patch version numbers.&lt;/p&gt;
-&lt;h2&gt;[UNRELEASED]&lt;/h2&gt;
-&lt;p&gt;No user facing changes.&lt;/p&gt;
-&lt;h2&gt;3.26.3 - 19 Aug 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix an issue where the CodeQL Action could not write diagnostic
-messages on Windows. This issue did not impact analysis quality. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2430"&gt;#2430&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.26.2 - 14 Aug 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Update default CodeQL bundle version to 2.18.2. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2417"&gt;#2417&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.26.1 - 13 Aug 2024&lt;/h2&gt;
-&lt;p&gt;No user facing changes.&lt;/p&gt;
-&lt;h2&gt;3.26.0 - 06 Aug 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Deprecation:&lt;/em&gt; Swift analysis on Ubuntu runner images is no
-longer supported. Please migrate to a macOS runner if this affects you.
-&lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2403"&gt;#2403&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bump the minimum CodeQL bundle version to 2.13.5. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2408"&gt;#2408&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.25.15 - 26 Jul 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Update default CodeQL bundle version to 2.18.1. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2385"&gt;#2385&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.25.14 - 25 Jul 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Experimental: add a new &lt;code&gt;start-proxy&lt;/code&gt; action which starts
-the same HTTP proxy as used by &lt;a
-href="https://github.com/github/dependabot-action"&gt;&lt;code&gt;github/dependabot-action&lt;/code&gt;&lt;/a&gt;.
-Do not use this in production as it is part of an internal experiment
-and subject to change at any time. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2376"&gt;#2376&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.25.13 - 19 Jul 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Add &lt;code&gt;codeql-version&lt;/code&gt; to outputs. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2368"&gt;#2368&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add a deprecation warning for customers using CodeQL version 2.13.4
-and earlier. These versions of CodeQL were discontinued on 9 July 2024
-alongside GitHub Enterprise Server 3.9, and will be unsupported by
-CodeQL Action versions 3.26.0 and later and versions 2.26.0 and later.
-&lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2375"&gt;#2375&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;If you are using one of these versions, please update to CodeQL CLI
-version 2.13.5 or later. For instance, if you have specified a custom
-version of the CLI using the 'tools' input to the 'init' Action, you can
-remove this input to use the default version.&lt;/li&gt;
-&lt;li&gt;Alternatively, if you want to continue using a version of the CodeQL
-CLI between 2.12.6 and 2.13.4, you can replace
-&lt;code&gt;github/codeql-action/*@v3&lt;/code&gt; by
-&lt;code&gt;github/codeql-action/*@v3.25.13&lt;/code&gt; and
-&lt;code&gt;github/codeql-action/*@v2&lt;/code&gt; by
-&lt;code&gt;github/codeql-action/*@v2.25.13&lt;/code&gt; in your code scanning
-workflow to ensure you continue using this version of the CodeQL
-Action.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.25.12 - 12 Jul 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Improve the reliability and performance of analyzing code when
-analyzing a compiled language with the &lt;code&gt;autobuild&lt;/code&gt; &lt;a
-href="https://docs.github.com/en/code-security/code-scanning/creating-an-advanced-setup-for-code-scanning/codeql-code-scanning-for-compiled-languages#codeql-build-modes"&gt;build
-mode&lt;/a&gt; on GitHub Enterprise Server. This feature is already available
-to GitHub.com users. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2353"&gt;#2353&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Update default CodeQL bundle version to 2.18.0. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2364"&gt;#2364&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;3.25.11 - 28 Jun 2024&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Avoid failing the workflow run if there is an error while uploading
-debug artifacts. &lt;a
-href="https://redirect.github.com/github/codeql-action/pull/2349"&gt;#2349&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/883d8588e56d1753a8a58c1c86e88976f0c23449"&gt;&lt;code&gt;883d858&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/github/codeql-action/issues/2431"&gt;#2431&lt;/a&gt;
-from github/update-v3.26.3-b187c86ce&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/e100cebbec1356794a5aaef00c9bb3bff114bdaa"&gt;&lt;code&gt;e100ceb&lt;/code&gt;&lt;/a&gt;
-Update changelog for v3.26.3&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/b187c86ce5456b99777446fbd009ce936d2c6cf4"&gt;&lt;code&gt;b187c86&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/github/codeql-action/issues/2430"&gt;#2430&lt;/a&gt;
-from github/henrymercer/windows-diagnostics-fix&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/e2bb5a277705da6cf2110f35d228f5f93e694c5e"&gt;&lt;code&gt;e2bb5a2&lt;/code&gt;&lt;/a&gt;
-Add changelog note&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/e5a65875f9a0652d275278a1802b2b7a7252b545"&gt;&lt;code&gt;e5a6587&lt;/code&gt;&lt;/a&gt;
-Fix writing diagnostics on Windows&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/5c681efc3f71cd6b47b1c14583c9e86913966e9f"&gt;&lt;code&gt;5c681ef&lt;/code&gt;&lt;/a&gt;
-Merge pull request &lt;a
-href="https://redirect.github.com/github/codeql-action/issues/2426"&gt;#2426&lt;/a&gt;
-from github/mergeback/v3.26.2-to-main-429e1977&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/676519a88282d8e2d89fa38d2b61b8122b7449ad"&gt;&lt;code&gt;676519a&lt;/code&gt;&lt;/a&gt;
-Update checked-in dependencies&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/github/codeql-action/commit/25a5b8f08cdeeffce170bbe78f0cb651b755430e"&gt;&lt;code&gt;25a5b8f&lt;/code&gt;&lt;/a&gt;
-Update changelog and version after v3.26.2&lt;/li&gt;
-&lt;li&gt;See full diff in &lt;a
-href="https://github.com/github/codeql-action/compare/429e1977040da7a23b6822b13c129cd1ba93dbb2...883d8588e56d1753a8a58c1c86e88976f0c23449"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=github/codeql-action&amp;package-manager=github_actions&amp;previous-version=3.26.2&amp;new-version=3.26.3)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8971c5</div>
-                                        <div class="message">Bump @angular/cli from 18.1.4 to 18.2.0 in /web_embedding/ng-flutter (#2388)
-
-Bumps [@angular/cli](https://github.com/angular/angular-cli) from 18.1.4
-to 18.2.0.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/angular/angular-cli/releases"&gt;&lt;code&gt;@​angular/cli&lt;/code&gt;'s
-releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;v18.2.0&lt;/h2&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h1&gt;18.2.0 (2024-08-14)&lt;/h1&gt;
-&lt;h3&gt;&lt;code&gt;@​schematics/angular&lt;/code&gt;&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Commit&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/4da922e4f4e905a1274e70adca1d875c025b8b46"&gt;&lt;img
-src="https://img.shields.io/badge/4da922e4f-feat-blue" alt="feat -
-4da922e4f" /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;use isolatedModules in generated project&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;&lt;code&gt;@​angular/build&lt;/code&gt;&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Commit&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/24aaf1e37f49735ce97fe72fced3d53b51d6b631"&gt;&lt;img
-src="https://img.shields.io/badge/24aaf1e37-feat-blue" alt="feat -
-24aaf1e37" /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;support import attribute based loader configuration&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;v18.2.0-rc.0&lt;/h2&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h1&gt;18.2.0-rc.0 (2024-08-07)&lt;/h1&gt;
-&lt;h3&gt;&lt;code&gt;@​angular/build&lt;/code&gt;&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Commit&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/182ecbd18817679b27441ffef2431f92910b592f"&gt;&lt;img
-src="https://img.shields.io/badge/182ecbd18-fix-green" alt="fix -
-182ecbd18" /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;allow explicitly disabling TypeScript incremental mode&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/34908a3fcba304da6916b2113863751500268a8c"&gt;&lt;img
-src="https://img.shields.io/badge/34908a3fc-fix-green" alt="fix -
-34908a3fc" /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;lazy load Node.js inspector for dev server&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;v18.2.0-next.3&lt;/h2&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h1&gt;18.2.0-next.3 (2024-07-31)&lt;/h1&gt;
-&lt;h3&gt;&lt;code&gt;@​angular/build&lt;/code&gt;&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Commit&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/636cb6932425b838ccd14ae6ce8b51663e6ded47"&gt;&lt;img
-src="https://img.shields.io/badge/636cb6932-fix-green" alt="fix -
-636cb6932" /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;add CSP &lt;code&gt;nonce&lt;/code&gt; attribute to script tags when inline
-critical CSS is disabled&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/7d52941a2e36b1e08001d7042c9d3e258d8e8b34"&gt;&lt;img
-src="https://img.shields.io/badge/7d52941a2-fix-green" alt="fix -
-7d52941a2" /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;prevent build failures with remote CSS imports when Tailwind is
-configured&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/0466fb74a2559e2b3cbcf0828de5b5e10b729ddb"&gt;&lt;img
-src="https://img.shields.io/badge/0466fb74a-fix-green" alt="fix -
-0466fb74a" /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;resolve error with &lt;code&gt;extract-i18n&lt;/code&gt; builder for
-libraries&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;v18.2.0-next.2&lt;/h2&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h1&gt;18.2.0-next.2 (2024-07-24)&lt;/h1&gt;
-&lt;h3&gt;&lt;code&gt;@​angular/build&lt;/code&gt;&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Commit&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/37a2138cb474778ef398a8d4129e1c389dde0f44"&gt;&lt;img
-src="https://img.shields.io/badge/37a2138cb-fix-green" alt="fix -
-37a2138cb" /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;account for HTML base HREF for dev-server externals&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/8ff687d036085508fa18397d7a039ab33cc027c7"&gt;&lt;img
-src="https://img.shields.io/badge/8ff687d03-fix-green" alt="fix -
-8ff687d03" /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;correctly detect comma in Sass URL lexer&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/6d6937587f8dfa95c951e775f97abde45710c8a6"&gt;&lt;img
-src="https://img.shields.io/badge/6d6937587-fix-green" alt="fix -
-6d6937587" /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;prevent redirection loop&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/11a140babb72519a030997b7986946adefd0b824"&gt;&lt;img
-src="https://img.shields.io/badge/11a140bab-fix-green" alt="fix -
-11a140bab" /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;serve HTML files directly&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2&gt;v18.2.0-next.1&lt;/h2&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h1&gt;18.2.0-next.1 (2024-07-17)&lt;/h1&gt;
-&lt;h3&gt;&lt;code&gt;@​angular-devkit/build-angular&lt;/code&gt;&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Commit&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/9baae6e22c5ad89e2f05b55b46a91ef0fbbe79a2"&gt;&lt;img
-src="https://img.shields.io/badge/9baae6e22-fix-green" alt="fix -
-9baae6e22" /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;skip undefined files when generating budget stats&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;&lt;code&gt;@​angular/build&lt;/code&gt;&lt;/h3&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/angular/angular-cli/blob/main/CHANGELOG.md"&gt;&lt;code&gt;@​angular/cli&lt;/code&gt;'s
-changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h1&gt;18.2.0 (2024-08-14)&lt;/h1&gt;
-&lt;h3&gt;&lt;code&gt;@​schematics/angular&lt;/code&gt;&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Commit&lt;/th&gt;
-&lt;th&gt;Type&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/4da922e4f4e905a1274e70adca1d875c025b8b46"&gt;4da922e4f&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;feat&lt;/td&gt;
-&lt;td&gt;use isolatedModules in generated project&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;&lt;code&gt;@​angular/build&lt;/code&gt;&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Commit&lt;/th&gt;
-&lt;th&gt;Type&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/24aaf1e37f49735ce97fe72fced3d53b51d6b631"&gt;24aaf1e37&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;feat&lt;/td&gt;
-&lt;td&gt;support import attribute based loader configuration&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/ff5a0fe2125f7e6b4aa789171d660f2f2d8d6d9f"&gt;&lt;code&gt;ff5a0fe&lt;/code&gt;&lt;/a&gt;
-release: cut the v18.2.0 release&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/1a876a3153ca12e22c129b51bef5e88ec8c084ee"&gt;&lt;code&gt;1a876a3&lt;/code&gt;&lt;/a&gt;
-build: update Angular versions to 18.2 stable&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/eb9c7fee72a7164e354d1ace1bad6d54df7e4c62"&gt;&lt;code&gt;eb9c7fe&lt;/code&gt;&lt;/a&gt;
-build: remove unnecessary excludes from tsconfig.json&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/0c2ca9a040c0ce69ad363b8cb323af87c6b6e4e5"&gt;&lt;code&gt;0c2ca9a&lt;/code&gt;&lt;/a&gt;
-build: remove Bazel typings workaround&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/4528be1eaba299ec5dae978d6e25e29ef5db770d"&gt;&lt;code&gt;4528be1&lt;/code&gt;&lt;/a&gt;
-build: add missing &lt;code&gt;pkg_deps&lt;/code&gt; for
-&lt;code&gt;@angular/create&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/d14c9ab0d91411fd20c216d1e27b0233ae48e877"&gt;&lt;code&gt;d14c9ab&lt;/code&gt;&lt;/a&gt;
-refactor(&lt;code&gt;@​angular-devkit/build-angular&lt;/code&gt;): reduce custom
-code in browser-esbuil...&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/5eef87c25cc5242a774ca523517ae092923b179a"&gt;&lt;code&gt;5eef87c&lt;/code&gt;&lt;/a&gt;
-build: update all non-major dependencies&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/62c040a6a3924496347b439c756f31394fae65e8"&gt;&lt;code&gt;62c040a&lt;/code&gt;&lt;/a&gt;
-build: update all non-major dependencies&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/6351c44dfc903d25e5d1a14d03b90c23eeb31009"&gt;&lt;code&gt;6351c44&lt;/code&gt;&lt;/a&gt;
-release: cut the v18.2.0-rc.0 release&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/angular/angular-cli/commit/6419c2a2e2c1958689f8977c03ce865540350b3d"&gt;&lt;code&gt;6419c2a&lt;/code&gt;&lt;/a&gt;
-build: update angular&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/angular/angular-cli/compare/18.1.4...18.2.0"&gt;compare
-view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-
-[![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@angular/cli&amp;package-manager=npm_and_yarn&amp;previous-version=18.1.4&amp;new-version=18.2.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't
-alter it yourself. You can also trigger a rebase manually by commenting
-`@dependabot rebase`.
-
-[//]: # (dependabot-automerge-start)
-[//]: # (dependabot-automerge-end)
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits
-that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after
-your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating
-it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
-of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop
-Dependabot creating any more for this major version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop
-Dependabot creating any more for this minor version (unless you reopen
-the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop
-Dependabot creating any more for this dependency (unless you reopen the
-PR or upgrade to it yourself)
-
-
-&lt;/details&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Dec 2024, 21:45:54</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">Quick-Fork/flutter_clean_architecture_movie_app</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#abd19e7</div>
-                                        <div class="message">[update] update package rive_pull_to_refresh</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdac25b</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4fb74e</div>
-                                        <div class="message">[update] update package</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Dec 2024, 21:45:04</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Quick-Fork/public-apis</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#274ecf0</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fde9b2b</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Dec 2024, 21:44:52</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Quick-Fork/flutter_mvvm_riverpod</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bbd3956</div>
-                                        <div class="message">Implement AsyncValue.guard</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 Dec 2024, 21:32:33</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">leoafarias/sidekick</span>
-                                        to
-                                        <span class="repo">chungxon/sidekick</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Dec 2024, 13:16:57</div>
                             </section>
                         </div>
                     </section>
@@ -3700,7 +2001,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~42 coding hours recorded
+                            ~48 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3720,7 +2021,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~6 hours of coding per day
+                            ~7 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3739,7 +2040,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Dec 2024, 21:41:59 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Dec 2024, 11:42:15 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
