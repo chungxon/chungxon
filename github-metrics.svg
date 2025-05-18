@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2190" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3130" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.sponsors{white-space:normal;margin:0 13px 2px}.sponsors .avatar{margin:2px}.stackoverflow{margin-left:38px}.stackoverflow .entry{margin:4px 0 12px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.property{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 50 repositories
+                            Starred 51 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -121,7 +121,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    393 MB used
+                                    394 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -468,11 +468,11 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 7 commits)</small>
+                    <small class="h-details">(computed from last 10 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 08:00</li>
+                        <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
@@ -523,7 +523,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             08
                         </div>
                         <div class="entry">
@@ -533,17 +533,17 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             10
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             11
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             12
                         </div>
                         <div class="entry">
@@ -558,7 +558,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             15
                         </div>
                         <div class="entry">
@@ -567,8 +567,8 @@
                             16
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             17
                         </div>
                         <div class="entry">
@@ -588,12 +588,12 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             21
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             22
                         </div>
                         <div class="entry">
@@ -608,13 +608,13 @@
                         <h3>Commit activity per day of week</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">2</span>
+                                <span class="value">5</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
                                 <span class="value">2</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -624,7 +624,7 @@
                             </div>
                             <div class="entry">
                                 <span class="value">2</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -634,7 +634,7 @@
                             </div>
                             <div class="entry">
                                 <span class="value">1</span>
-                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -1683,6 +1683,642 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Quick-Fork/Flutter-Bloc-CleanArchitecture</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c9190d3</div>
+                                        <div class="message">Merge pull request #42 from ntminhdn/fix_l10n_command
+
+Fix l10n command</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aaaa93c</div>
+                                        <div class="message">fix: fix l10n command</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">18 May 2025, 17:43:47</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 46 commits in
+                                        <span class="repo">Quick-Fork/samples</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ac85e2c</div>
+                                        <div class="message">[web] when building examples, delete the canvaskit bits from the output (#2586)
+
+We use the hosted artifacts, so this just wastes storage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04aea26</div>
+                                        <div class="message">remove useMaterial3 (#2579)
+
+This PR removes redundant `useMaterial3` since it is true by default.
+
+Fixes https://github.com/flutter/flutter/issues/162818
+
+If you need help, consider asking for advice on the #hackers-devrel channel on [Discord].</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9fef133</div>
+                                        <div class="message">Clean up dependencies across packages (#2585)
+
+Drop dep on pkg:collection, use new bits in Dart 3.0
+Fixed very old dep in navigation_and_routing – bug was fixed long ago</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4cdd42c</div>
+                                        <div class="message">Bump pigeon from 22.7.4 to 24.1.1 in /add_to_app/books/flutter_module_books (#2580)
+
+Bumps [pigeon](https://github.com/flutter/packages/tree/main/packages) from 22.7.4 to 24.1.1.
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/flutter/packages/commit/94ce998033faa8be39edc2e846b962df919c5d1c"&gt;&lt;code&gt;94ce998&lt;/code&gt;&lt;/a&gt; [pigeon] Add errors for ProxyAPI callback methods and null instances when rea...&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/flutter/packages/commit/1ecb531bdd61b0217ed86d7ea0e8c007f4f7aff9"&gt;&lt;code&gt;1ecb531&lt;/code&gt;&lt;/a&gt; [shared_preferences]Fix : SetState returning future (&lt;a href="https://github.com/flutter/packages/tree/main/packages/issues/8398"&gt;#8398&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/flutter/packages/commit/10234434b8747a5688783696be48b707fa0657fd"&gt;&lt;code&gt;1023443&lt;/code&gt;&lt;/a&gt; [various] Add deprecation notices to READMEs (&lt;a href="https://github.com/flutter/packages/tree/main/packages/issues/8598"&gt;#8598&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/flutter/packages/commit/05663719a00e942013090b10bef9fc1684246f12"&gt;&lt;code&gt;0566371&lt;/code&gt;&lt;/a&gt; [camera] Remove OCMock from CameraSettingsTests, CameraMethodChannelTests and...&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/flutter/packages/commit/fec5ec563e795ace623d90857f4d1def7e86d3d8"&gt;&lt;code&gt;fec5ec5&lt;/code&gt;&lt;/a&gt; [camera] Remove OCMock from FLTCamPhotoCaptureTests, FLTSavePhotoDelegateTest...&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/flutter/packages/commit/970d858458903fbefc3b4be6395494352c04c74e"&gt;&lt;code&gt;970d858&lt;/code&gt;&lt;/a&gt; [go_router] Add &lt;code&gt;preload&lt;/code&gt; parameter to &lt;code&gt;StatefulShellBranchData.$branch&lt;/code&gt; (&lt;a href="https://github.com/flutter/packages/tree/main/packages/issues/8545"&gt;#8545&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/flutter/packages/commit/24d6d9c6d0f622886ccc089358af16f0d7c7288b"&gt;&lt;code&gt;24d6d9c&lt;/code&gt;&lt;/a&gt; [video_player_avfoundation] iOS platform view support (&lt;a href="https://github.com/flutter/packages/tree/main/packages/issues/8237"&gt;#8237&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/flutter/packages/commit/625023aa0376795d2457d86120c3e52cc5ce0d07"&gt;&lt;code&gt;625023a&lt;/code&gt;&lt;/a&gt; [camera] Remove OCMock from AvailableCamerasTests, CameraOrientationTests and...&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/flutter/packages/commit/cb1897817d8c038fcab099faf005831ba2e1bc1b"&gt;&lt;code&gt;cb18978&lt;/code&gt;&lt;/a&gt; [pigeon] Adds annotation options to omit shared classes used in Event Channel...&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/flutter/packages/commit/bae29f6ed53c35bbcb48295b7bda42e1d60c6a3a"&gt;&lt;code&gt;bae29f6&lt;/code&gt;&lt;/a&gt; [quick_actions] Update Android Pigeon version (&lt;a href="https://github.com/flutter/packages/tree/main/packages/issues/8580"&gt;#8580&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a href="https://github.com/flutter/packages/commits/pigeon-v24.1.1/packages"&gt;compare view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=pigeon&amp;package-manager=pub&amp;previous-version=22.7.4&amp;new-version=24.1.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#407f0a4</div>
+                                        <div class="message">Build all of the samples with wasm (#2584)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bfe14d0</div>
+                                        <div class="message">Ignore dart:html deprecation for now (#2583)
+
+See https://github.com/flutter/samples/issues/2582</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#719fd72</div>
+                                        <div class="message">Flutter 3.29 beta (#2571)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d62c784</div>
+                                        <div class="message">Initialize Rolodex (#2569)
+
+Creates the start of the Rolodex app.
+
+Sets up the app with the initial routes setup. Since the native Contacts
+app does not open on its home screen, and instead opens on the default
+list of contacts, it felt important to set that up first. Some basic app
+state management is also setup for managing contact lists across the
+app.
+
+Boilerplate visuals are setup for two of the screens. Improved fidelity
+will come later.
+
+&lt;img width="855" alt="Screenshot 2025-01-27 at 12 09 57 PM"
+src="https://github.com/user-attachments/assets/de091c7c-11ac-4350-9362-61b9c26b2aca"
+/&gt;
+&lt;img width="841" alt="Screenshot 2025-01-27 at 12 04 07 PM"
+src="https://github.com/user-attachments/assets/fe822b06-a432-44cf-ab24-f3e7a88955e5"
+/&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce50aaf</div>
+                                        <div class="message">[exp/pedometer] Upgrade jnigen to 0.13.1 (#2566)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c33edaf</div>
+                                        <div class="message">Update content_menus README.md references (#2564)
+
+Fix broken references in the README.md.
+
+&lt;img width="1467" alt="image"
+src="https://github.com/user-attachments/assets/15f67114-f8a1-4a72-b4a4-0fa375832b26"
+/&gt;
+
+
+## Pre-launch Checklist
+
+- [x] I read the [Flutter Style Guide] _recently_, and have followed its
+advice.
+- [x] I signed the [CLA].
+- [x] I read the [Contributors Guide].
+- [x] I have added sample code updates to the [changelog].
+- [x] I updated/added relevant documentation (doc comments with `///`).
+
+
+If you need help, consider asking for advice on the #hackers-devrel
+channel on [Discord].
+
+&lt;!-- Links --&gt;
+[Flutter Style Guide]:
+https://github.com/flutter/flutter/blob/master/docs/contributing/Style-guide-for-Flutter-repo.md
+[CLA]: https://cla.developers.google.com/
+[Discord]:
+https://github.com/flutter/flutter/blob/master/docs/contributing/Chat.md
+[Contributors Guide]:
+https://github.com/flutter/samples/blob/main/CONTRIBUTING.md
+[changelog]: ../CHANGELOG.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42c081f</div>
+                                        <div class="message">Update compass app client dependencies (#2561)
+
+Mostly updates share_plus from v7 to v10.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e39638e</div>
+                                        <div class="message">Enable some extra lints for compass app client (#2560)
+
+Enable a few more lints that were mostly followed already for
+consistency.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e36c642</div>
+                                        <div class="message">Fix Broken Links in README.md (#2559)
+
+Fix invalid [contributor's guide] links found in the `README.md` file.
+
+---------
+
+Co-authored-by: Brett Morgan &lt;brett.morgan@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#203a0f4</div>
+                                        <div class="message">Bump fl_chart from 0.69.2 to 0.70.0 in /experimental/pedometer/example (#2557)
+
+Bumps [fl_chart](https://github.com/imaNNeo/fl_chart) from 0.69.2 to 0.70.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/imaNNeo/fl_chart/releases"&gt;fl_chart's releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;0.70.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;FEATURE&lt;/strong&gt; (by &lt;a href="https://github.com/Peetee06"&gt;&lt;code&gt;@âPeetee06&lt;/code&gt;&lt;/a&gt;) Implemented a 5 years-old feature request about scroll and zoom support in our axis-based charts. Special thanks to &lt;a href="https://github.com/Peetee06"&gt;&lt;code&gt;@âPeetee06&lt;/code&gt;&lt;/a&gt; who made it happen, &lt;a href="https://redirect.github.com/imaNNeo/fl_chart/issues/71"&gt;#71&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a href="https://github.com/Peetee06"&gt;&lt;code&gt;@âPeetee06&lt;/code&gt;&lt;/a&gt;) Added functionality to control the transformation of axis-based charts using &lt;code&gt;FlTransformationConfig&lt;/code&gt; class. You can now enable scaling and panning for &lt;code&gt;LineChart&lt;/code&gt;, &lt;code&gt;BarChart&lt;/code&gt; and &lt;code&gt;ScatterChart&lt;/code&gt; using this class&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a href="https://github.com/Peetee06"&gt;&lt;code&gt;@âPeetee06&lt;/code&gt;&lt;/a&gt;) Added some new unit tests in &lt;code&gt;bar_chart_data_extensions_test.dart&lt;/code&gt;, &lt;code&gt;gradient_extension_test.dart&lt;/code&gt; and fixed a typo in &lt;code&gt;bar_chart_data.dart&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BREAKING&lt;/strong&gt; (by &lt;a href="https://github.com/Peetee06"&gt;&lt;code&gt;@âPeetee06&lt;/code&gt;&lt;/a&gt;) Fixed the equatable functionality in our BarChart. We hope it will not affect anything in our chart, but because the behaviour is changed, we marked it as a breaking change. (read more &lt;a href="https://redirect.github.com/imaNNeo/fl_chart/pull/1789#discussion_r1858371718"&gt;here&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BREAKING&lt;/strong&gt; (by &lt;a href="https://github.com/Peetee06"&gt;&lt;code&gt;@âPeetee06&lt;/code&gt;&lt;/a&gt;) &lt;code&gt;BarChart&lt;/code&gt; is not const anymore due to adding an assert to check if transformations are allowed depending on the &lt;code&gt;BarChartData.alignment&lt;/code&gt; property (read more &lt;a href="https://github.com/imaNNeo/fl_chart/blob/main/repo_files/documentations/migration_guides/0.70.0/MIGRATION_00_70_00.md"&gt;here&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a href="https://github.com/Peetee06"&gt;&lt;code&gt;@âPeetee06&lt;/code&gt;&lt;/a&gt;) Upgrade to the new Flutter version (&lt;a href="https://medium.com/flutter/whats-new-in-flutter-3-27-28341129570c"&gt;3.27.0&lt;/a&gt;), &lt;a href="https://redirect.github.com/imaNNeo/fl_chart/issues/1804"&gt;#1804&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a href="https://github.com/AliAkberAakash"&gt;&lt;code&gt;@âAliAkberAakash&lt;/code&gt;&lt;/a&gt;) Minor typo fix in our line chart documentation, &lt;a href="https://redirect.github.com/imaNNeo/fl_chart/issues/1795"&gt;#1795&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a href="https://github.com/imaNNeo"&gt;&lt;code&gt;@âimaNNeo&lt;/code&gt;&lt;/a&gt;) Fixed the code coverage API rate-limit issue&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improvement&lt;/strong&gt; (by &lt;a href="https://github.com/imaNNeo"&gt;&lt;code&gt;@âimaNNeo&lt;/code&gt;&lt;/a&gt;) Published the example app in Google Play and App Store. Other stores (such as &lt;a href="https://snapcraft.io/store"&gt;snap store&lt;/a&gt; and &lt;a href="https://apps.microsoft.com/home"&gt;Microsoft Store&lt;/a&gt;) will come next. You can download the Android version here in &lt;a href="https://play.google.com/store/apps/details?id=dev.flchart.app"&gt;Google Play&lt;/a&gt; and the iOS version here in &lt;a href="https://apps.apple.com/us/app/fl-chart/id6476523019"&gt;App Store&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/imaNNeo/fl_chart/blob/main/CHANGELOG.md"&gt;fl_chart's changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;0.70.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;FEATURE&lt;/strong&gt; (by &lt;a href="https://github.com/Peetee06"&gt;&lt;code&gt;@âPeetee06&lt;/code&gt;&lt;/a&gt;) Implemented a 5 years-old feature request about scroll and zoom support in our axis-based charts. Special thanks to &lt;a href="https://github.com/Peetee06"&gt;&lt;code&gt;@âPeetee06&lt;/code&gt;&lt;/a&gt; who made it happen, &lt;a href="https://redirect.github.com/imaNNeo/fl_chart/issues/71"&gt;#71&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a href="https://github.com/Peetee06"&gt;&lt;code&gt;@âPeetee06&lt;/code&gt;&lt;/a&gt;) Added functionality to control the transformation of axis-based charts using &lt;code&gt;FlTransformationConfig&lt;/code&gt; class. You can now enable scaling and panning for &lt;code&gt;LineChart&lt;/code&gt;, &lt;code&gt;BarChart&lt;/code&gt; and &lt;code&gt;ScatterChart&lt;/code&gt; using this class&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a href="https://github.com/Peetee06"&gt;&lt;code&gt;@âPeetee06&lt;/code&gt;&lt;/a&gt;) Added some new unit tests in &lt;code&gt;bar_chart_data_extensions_test.dart&lt;/code&gt;, &lt;code&gt;gradient_extension_test.dart&lt;/code&gt; and fixed a typo in &lt;code&gt;bar_chart_data.dart&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BREAKING&lt;/strong&gt; (by &lt;a href="https://github.com/Peetee06"&gt;&lt;code&gt;@âPeetee06&lt;/code&gt;&lt;/a&gt;) Fixed the equatable functionality in our BarChart. We hope it will not affect anything in our chart, but because the behaviour is changed, we marked it as a breaking change. (read more &lt;a href="https://redirect.github.com/imaNNeo/fl_chart/pull/1789#discussion_r1858371718"&gt;here&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BREAKING&lt;/strong&gt; (by &lt;a href="https://github.com/Peetee06"&gt;&lt;code&gt;@âPeetee06&lt;/code&gt;&lt;/a&gt;) &lt;code&gt;BarChart&lt;/code&gt; is not const anymore due to adding an assert to check if transformations are allowed depending on the &lt;code&gt;BarChartData.alignment&lt;/code&gt; property (read more &lt;a href="https://github.com/imaNNeo/fl_chart/blob/main/repo_files/documentations/migration_guides/0.70.0/MIGRATION_00_70_00.md"&gt;here&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a href="https://github.com/Peetee06"&gt;&lt;code&gt;@âPeetee06&lt;/code&gt;&lt;/a&gt;) Upgrade to the new Flutter version (&lt;a href="https://medium.com/flutter/whats-new-in-flutter-3-27-28341129570c"&gt;3.27.0&lt;/a&gt;), &lt;a href="https://redirect.github.com/imaNNeo/fl_chart/issues/1804"&gt;#1804&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a href="https://github.com/AliAkberAakash"&gt;&lt;code&gt;@âAliAkberAakash&lt;/code&gt;&lt;/a&gt;) Minor typo fix in our line chart documentation, &lt;a href="https://redirect.github.com/imaNNeo/fl_chart/issues/1795"&gt;#1795&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IMPROVEMENT&lt;/strong&gt; (by &lt;a href="https://github.com/imaNNeo"&gt;&lt;code&gt;@âimaNNeo&lt;/code&gt;&lt;/a&gt;) Fixed the code coverage API rate-limit issue&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improvement&lt;/strong&gt; (by &lt;a href="https://github.com/imaNNeo"&gt;&lt;code&gt;@âimaNNeo&lt;/code&gt;&lt;/a&gt;) Published the example app in Google Play and App Store. Other stores (such as &lt;a href="https://snapcraft.io/store"&gt;snap store&lt;/a&gt; and &lt;a href="https://apps.microsoft.com/home"&gt;Microsoft Store&lt;/a&gt;) will come next. You can download the Android version here in &lt;a href="https://play.google.com/store/apps/details?id=dev.flchart.app"&gt;Google Play&lt;/a&gt; and the iOS version here in &lt;a href="https://apps.apple.com/us/app/fl-chart/id6476523019"&gt;App Store&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/imaNNeo/fl_chart/commit/7d2cf3c0aff954ba4dba48186eae5ea04ac43de5"&gt;&lt;code&gt;7d2cf3c&lt;/code&gt;&lt;/a&gt; Bump fl_chart version up to 0.70.0&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/imaNNeo/fl_chart/commit/fd52df2854fe4952bba0b05e1f96e66fe0a16dcb"&gt;&lt;code&gt;fd52df2&lt;/code&gt;&lt;/a&gt; Update the changelog&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/imaNNeo/fl_chart/commit/78db3f4ca0a32f060559f2773360effe91bdca4a"&gt;&lt;code&gt;78db3f4&lt;/code&gt;&lt;/a&gt; feat!: Add Chart zoom and pan (&lt;a href="https://redirect.github.com/imaNNeo/fl_chart/issues/1793"&gt;#1793&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/imaNNeo/fl_chart/commit/ce9e84905e967ccbbbbf66868ec389b3c3de91e8"&gt;&lt;code&gt;ce9e849&lt;/code&gt;&lt;/a&gt; Update codecov.yml to fix the rate-limit issue&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/imaNNeo/fl_chart/commit/62af27fdbffb9a75d55f9a33140de1f544723b88"&gt;&lt;code&gt;62af27f&lt;/code&gt;&lt;/a&gt; chore!: Update constraints for Flutter SDK to 3.27.0&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/imaNNeo/fl_chart/commit/1998d9243377c0bd100399b595463c0ec24ed442"&gt;&lt;code&gt;1998d92&lt;/code&gt;&lt;/a&gt; feat: Upgrade to Flutter 3.27.0&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/imaNNeo/fl_chart/commit/269472b081baa4b8d53e734d47b6f1a35e42a428"&gt;&lt;code&gt;269472b&lt;/code&gt;&lt;/a&gt; Add stores links&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/imaNNeo/fl_chart/commit/e191345b5ed731d0305827ea6c36fb311f91297d"&gt;&lt;code&gt;e191345&lt;/code&gt;&lt;/a&gt; Update README.md&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/imaNNeo/fl_chart/commit/964d64bc80d84bae128a3fea46adece5864a53cc"&gt;&lt;code&gt;964d64b&lt;/code&gt;&lt;/a&gt; fix typo in line_chart.md&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/imaNNeo/fl_chart/commit/efb1bb1914cf268e624313006c6d7e5126956d56"&gt;&lt;code&gt;efb1bb1&lt;/code&gt;&lt;/a&gt; fix: Call correct make target to run tests in verification workflow&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a href="https://github.com/imaNNeo/fl_chart/compare/0.69.2...0.70.0"&gt;compare view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=fl_chart&amp;package-manager=pub&amp;previous-version=0.69.2&amp;new-version=0.70.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0613c21</div>
+                                        <div class="message">Bump json_serializable and freezed in /code_sharing/shared (#2556)
+
+Bumps [json_serializable](https://github.com/google/json_serializable.dart) and [freezed](https://github.com/rrousselGit/freezed). These dependencies needed to be updated together.
+Updates `json_serializable` from 6.9.0 to 6.9.2
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/google/json_serializable.dart/releases"&gt;json_serializable's releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;package:json_serializable v6.9.2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Support the latest &lt;code&gt;package:analyzer&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;package:json_serializable v6.9.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Support the latest &lt;code&gt;package:analyzer&lt;/code&gt; and &lt;code&gt;package:source_gen&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Require Dart 3.6&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/google/json_serializable.dart/commit/d8311be1823007344bd17eb7f5f00b885ab2b033"&gt;&lt;code&gt;d8311be&lt;/code&gt;&lt;/a&gt; Actually bump pkg:analyzer dep (&lt;a href="https://redirect.github.com/google/json_serializable.dart/issues/1466"&gt;#1466&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/google/json_serializable.dart/commit/52c25ccdbecbbf1cf1adfb512833dd371fd6eba2"&gt;&lt;code&gt;52c25cc&lt;/code&gt;&lt;/a&gt; Support latest packages, bump min SDK to 3.6 (&lt;a href="https://redirect.github.com/google/json_serializable.dart/issues/1465"&gt;#1465&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/google/json_serializable.dart/commit/d3cee9920173ca9bde2e2d4b2a35d8552ce75f9f"&gt;&lt;code&gt;d3cee99&lt;/code&gt;&lt;/a&gt; Bump the dependencies group with 2 updates (&lt;a href="https://redirect.github.com/google/json_serializable.dart/issues/1461"&gt;#1461&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a href="https://github.com/google/json_serializable.dart/compare/json_serializable-v6.9.0...json_serializable-v6.9.2"&gt;compare view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `freezed` from 2.5.7 to 3.0.0-0.0.dev
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/rrousselGit/freezed/commit/c8361edfe2f76662037eee4c0ed02fb5e0da558a"&gt;&lt;code&gt;c8361ed&lt;/code&gt;&lt;/a&gt; emoji&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rrousselGit/freezed/commit/467620719145bf2a701fb6993104ce03aa57c33d"&gt;&lt;code&gt;4676207&lt;/code&gt;&lt;/a&gt; Limited union support&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rrousselGit/freezed/commit/64d073270f8132e1cdcc4fc88633f68bf5b31887"&gt;&lt;code&gt;64d0732&lt;/code&gt;&lt;/a&gt; Mention pubspec&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rrousselGit/freezed/commit/6d404a3e315bc9bd43e2a63d425f0e9bd62f8fe1"&gt;&lt;code&gt;6d404a3&lt;/code&gt;&lt;/a&gt; Initial release&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rrousselGit/freezed/commit/7d413a1fa97062143245c369d960aa3ade89b069"&gt;&lt;code&gt;7d413a1&lt;/code&gt;&lt;/a&gt; Lints&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rrousselGit/freezed/commit/9f35603916e482b9e57c0b933a370677d2b5ea18"&gt;&lt;code&gt;9f35603&lt;/code&gt;&lt;/a&gt; Port&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rrousselGit/freezed/commit/0d72188a23e76c37fb3e960ad70aab2d9f56ccdd"&gt;&lt;code&gt;0d72188&lt;/code&gt;&lt;/a&gt; Delete more&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rrousselGit/freezed/commit/24bf8435dcd48da8e05911e02b2cf5ef67e8a6e7"&gt;&lt;code&gt;24bf843&lt;/code&gt;&lt;/a&gt; Delete stuff&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rrousselGit/freezed/commit/5f0b80c0b52e4c08ea2dab7770d3e15cd51d42cd"&gt;&lt;code&gt;5f0b80c&lt;/code&gt;&lt;/a&gt; chore: update sponsors.svg&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rrousselGit/freezed/commit/505b32f41567363704e4e66e45695d05dc09d6b4"&gt;&lt;code&gt;505b32f&lt;/code&gt;&lt;/a&gt; chore: update sponsors.svg&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a href="https://github.com/rrousselGit/freezed/compare/freezed-v2.5.7...freezed@v3.0.0-0.0.dev"&gt;compare view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80968f8</div>
+                                        <div class="message">Bump actions/setup-java from 4.5.0 to 4.6.0 (#2555)
+
+Bumps [actions/setup-java](https://github.com/actions/setup-java) from 4.5.0 to 4.6.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/actions/setup-java/releases"&gt;actions/setup-java's releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v4.6.0&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Add-ons:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add Support for JetBrains Runtime by &lt;a href="https://github.com/gmitch215"&gt;&lt;code&gt;@âgmitch215&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/setup-java/pull/637"&gt;actions/setup-java#637&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre lang="steps:"&gt;&lt;code&gt; - name: Checkout
+   uses: actions/checkout@v4
+ - name: Setup-java
+   uses: actions/setup-java@v4
+   with:
+     distribution: âjetbrainsâ
+     java-version: '21'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Bug fixes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix Ubuntu-latest CI failures by &lt;a href="https://github.com/mahabaleshwars"&gt;&lt;code&gt;@âmahabaleshwars&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/setup-java/pull/693"&gt;actions/setup-java#693&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/gmitch215"&gt;&lt;code&gt;@âgmitch215&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/setup-java/pull/637"&gt;actions/setup-java#637&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href="https://github.com/actions/setup-java/compare/v4...v4.6.0"&gt;https://github.com/actions/setup-java/compare/v4...v4.6.0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/actions/setup-java/commit/7a6d8a8234af8eb26422e24e3006232cccaa061b"&gt;&lt;code&gt;7a6d8a8&lt;/code&gt;&lt;/a&gt; Add Support for JetBrains Runtime (&lt;a href="https://redirect.github.com/actions/setup-java/issues/637"&gt;#637&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/actions/setup-java/commit/7136edc5e8145b3c0b6bae8f4e62706c74e76538"&gt;&lt;code&gt;7136edc&lt;/code&gt;&lt;/a&gt; Fix sbt and x86 CI failures on Ubuntu-24 (&lt;a href="https://redirect.github.com/actions/setup-java/issues/693"&gt;#693&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a href="https://github.com/actions/setup-java/compare/8df1039502a15bceb9433410b1a100fbe190c53b...7a6d8a8234af8eb26422e24e3006232cccaa061b"&gt;compare view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/setup-java&amp;package-manager=github_actions&amp;previous-version=4.5.0&amp;new-version=4.6.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21917e3</div>
+                                        <div class="message">Fixup internal links in `CONTRIBUTING.md` (#2552)
+
+This is a follow on PR from https://github.com/flutter/samples/pull/2532
+
+## Pre-launch Checklist
+
+- [x] I read the [Flutter Style Guide] _recently_, and have followed its
+advice.
+- [x] I signed the [CLA].
+- [x] I read the [Contributors Guide].
+- [ ] I have added sample code updates to the [changelog].
+- [ ] I updated/added relevant documentation (doc comments with `///`).
+
+
+If you need help, consider asking for advice on the #hackers-devrel
+channel on [Discord].
+
+&lt;!-- Links --&gt;
+[Flutter Style Guide]:
+https://github.com/flutter/flutter/blob/master/docs/contributing/Style-guide-for-Flutter-repo.md
+[CLA]: https://cla.developers.google.com/
+[Discord]:
+https://github.com/flutter/flutter/blob/master/docs/contributing/Chat.md
+[Contributors Guide]:
+https://github.com/flutter/samples/blob/main/CONTRIBUTING.md
+[changelog]: ../CHANGELOG.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a71c844</div>
+                                        <div class="message">Bump jnigen from 0.12.2 to 0.13.0 in /experimental/pedometer (#2554)
+
+Bumps [jnigen](https://github.com/dart-lang/native/tree/main/pkgs) from 0.12.2 to 0.13.0.
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;See full diff in &lt;a href="https://github.com/dart-lang/native/commits/HEAD/pkgs"&gt;compare view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=jnigen&amp;package-manager=pub&amp;previous-version=0.12.2&amp;new-version=0.13.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
+
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de6bfaa</div>
+                                        <div class="message">Fix link in CONTRIBUTING.md (#2532)
+
+## Pre-launch Checklist
+
+- [x] I read the [Flutter Style Guide] _recently_, and have followed its
+advice.
+- [x] I signed the [CLA].
+- [x] I read the [Contributors Guide].
+- [x] I updated/added relevant documentation (doc comments with `///`).
+- [x] All existing and new tests are passing.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f25adf4</div>
+                                        <div class="message">Flutter3.27 (#2483)
+
+Updating samples for the next stable release</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">18 May 2025, 17:40:56</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">agilord/diacritic</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">18 May 2025, 17:39:58</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 22 commits in
+                                        <span class="repo">Quick-Fork/flutter_mvvm_riverpod</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#687b6b5</div>
+                                        <div class="message">Update Profile screen</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85e4cc1</div>
+                                        <div class="message">Update import</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5b1e47</div>
+                                        <div class="message">Fix build Android</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b389347</div>
+                                        <div class="message">Fix GitHub workflows</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#73fb53e</div>
+                                        <div class="message">Update Profile screen</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f333f6e</div>
+                                        <div class="message">Implement Sign in Google release</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#709f364</div>
+                                        <div class="message">Update BottomNavigationBar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3a8edc</div>
+                                        <div class="message">Update common UI</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af99626</div>
+                                        <div class="message">Implement RevenueCat</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dce7d61</div>
+                                        <div class="message">Update URL</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d18bad4</div>
+                                        <div class="message">Update Authentication and OfflineContainer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb2ef83</div>
+                                        <div class="message">Add SignInAgreement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ade2f6</div>
+                                        <div class="message">Update minor common UI</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c7bc853</div>
+                                        <div class="message">Migrate from Isar to sqflite</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5fa00c</div>
+                                        <div class="message">Create GitHub workflow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff69b37</div>
+                                        <div class="message">Update guide change app information</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3396d93</div>
+                                        <div class="message">Update GoRouter to fix bug hot reload</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ee1dad</div>
+                                        <div class="message">Update JDK and Gradle version</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71af8de</div>
+                                        <div class="message">Add change_app_package_name package</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc7b9ac</div>
+                                        <div class="message">Replace relative import</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">18 May 2025, 17:36:57</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -2069,7 +2705,7 @@ https://stackoverflow.com/a/77341333/19622959</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 May 2025, 16:38:03 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 May 2025, 21:39:10 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
