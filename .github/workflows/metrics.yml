@@ -49,11 +49,11 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_notable: yes
+          plugin_notable: no
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_notable_self: yes
-          plugin_notable_types: commit
+          plugin_notable_types: commit,pull_request,issue
           plugin_reactions: yes
           plugin_reactions_details: count, percentage
           plugin_reactions_display: absolute
