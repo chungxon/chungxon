@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2028" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1489" class="">
     <defs>
         <style/>
     </defs>
@@ -159,7 +159,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    70 views in last two weeks
+                                    55 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1651,163 +1651,6 @@
                                 <div class="timestamp">9 Aug 2025, 22:35:57</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">chungxon/json_getter</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#45aef94</div>
-                                        <div class="message">chore: update .gitignore and analysis options</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Aug 2025, 21:02:18</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">fix/blank-android-icon</span>
-                                        in
-                                        <span class="repo">chungxon/flutter_launcher_icons</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Aug 2025, 20:41:50</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">fix/remove-alpha-ios</span>
-                                        in
-                                        <span class="repo">chungxon/flutter_launcher_icons</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Aug 2025, 20:41:43</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">chungxon/flutter_launcher_icons</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#10b86b1</div>
-                                        <div class="message">build: v0.14.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#127ab0f</div>
-                                        <div class="message">fix(template): wrong attribute to remove alpha channel (#586)
-
-* fix(template): wrong attribute to remove alpha channel
-
-* fix(template): add missing attributes and update readme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0dd859c</div>
-                                        <div class="message">chores: remove deprecated rules from analysis_options (#598)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b01e4a</div>
-                                        <div class="message">refactor: readme improvements (#631)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#823caac</div>
-                                        <div class="message">fix : rename remove_alpha_ios for generate (#642)
-
-When using the generate command, the yaml file generates `remove_alpha_channel_ios: true` configuration, which is not valid in the latest version. It has been renamed to `remove_alpha_ios`.
-
-This creates an issue for iOS icon transparency compliance since the older `emove_alpha_channel_ios` key does not work</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a787b1a</div>
-                                        <div class="message">refactor : standardize on async I/O and waiting for work to complete (#646)
-
-This prevents existing async methods like createIconsFromConfig from returning while some async work that they spawned is still continuing in the background.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4920f04</div>
-                                        <div class="message">fix: typo in readme (#639)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57eedb7</div>
-                                        <div class="message">build: v0.14.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#945eadd</div>
-                                        <div class="message">fix(android): show blank icon if no adaptive icon set (#601)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e467bc</div>
-                                        <div class="message">build: v0.14.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0dd7459</div>
-                                        <div class="message">refactor(linter): removed rule no longer used</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5d0775</div>
-                                        <div class="message">fix: fixes the issue where the dark and tinted icons were placed in the wrong directory (#597)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6e97ad</div>
-                                        <div class="message">fix: wrong PR mentioned in changelog (#584)</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Aug 2025, 20:40:06</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">chungxon/flutter_app_customizer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e4f7110</div>
-                                        <div class="message">Revert "fix: spaces in name were removed if more than 12 characters"
-
-This reverts commit 674f0f862789553254575ba6107bbb36268082a9.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Aug 2025, 19:29:12</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1997,7 +1840,7 @@ This reverts commit 674f0f862789553254575ba6107bbb36268082a9.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Aug 2025, 16:37:41 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Aug 2025, 21:39:11 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
